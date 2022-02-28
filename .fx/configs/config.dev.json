@@ -5,6 +5,11 @@
         "appName": {
             "short": "minapp",
             "full": "Full name for minapp"
-        }
+        },
+        "developerWebsiteUrl": "",
+        "developerPrivacyUrl": "",
+        "developerTermsOfUseUrl": "",
+        "tabContentUrl": "",
+        "tabWebsiteUrl": ""
     }
 }

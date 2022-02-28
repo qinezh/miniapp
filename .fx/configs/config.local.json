@@ -5,6 +5,11 @@
         "appName": {
             "short": "minapp",
             "full": "Full name for minapp"
-        }
+        },
+        "developerWebsiteUrl": "https://localhost:3000",
+        "developerPrivacyUrl": "https://localhost:3000",
+        "developerTermsOfUseUrl": "https://localhost:3000",
+        "tabContentUrl": "https://localhost:3000",
+        "tabWebsiteUrl": "https://localhost:3000"
     }
 }
