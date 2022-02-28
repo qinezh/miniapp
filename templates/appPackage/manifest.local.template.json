@@ -15,12 +15,12 @@
         "outline": "resources/outline.png"
     },
     "name": {
-        "short": "minapp-local-debug",
-        "full": "minapp-local-debug"
+        "short": "miniapp-local-debug",
+        "full": "miniapp-local-debug"
     },
     "description": {
-        "short": "Short description of minapp-local-debug",
-        "full": "Full description of minapp-local-debug"
+        "short": "Short description of miniapp-local-debug",
+        "full": "Full description of miniapp-local-debug"
     },
     "accentColor": "#FFFFFF",
     "bots": [],
