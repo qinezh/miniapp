@@ -1,9 +1,4 @@
-node_modules
-.fx/configs/localSettings.json
+.fx/configs/config.local.json
 .fx/states/*.userdata
-.DS_Store
-.archive
-.archive.log
-.env.teamsfx.local
-subscriptionInfo.json
+.fx/subscriptionInfo.json
 build
