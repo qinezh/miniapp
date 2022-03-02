@@ -6,9 +6,9 @@
             "short": "miniapp",
             "full": "Full name for miniapp"
         },
-        "developerWebsiteUrl": "",
-        "developerPrivacyUrl": "",
-        "developerTermsOfUseUrl": "",
+        "developerWebsiteUrl": "https://www.example.com/",
+        "developerPrivacyUrl": "https://www.example.com/",
+        "developerTermsOfUseUrl": "https://www.example.com/",
         "tabContentUrl": "",
         "tabWebsiteUrl": ""
     }
